@@ -1,0 +1,12 @@
+# Já configurado para ignorar venv e dados
+
+venv/
+.venv/
+env/
+
+__pycache__/
+*.csv
+*.xlsx
+.env
+
+dados/
